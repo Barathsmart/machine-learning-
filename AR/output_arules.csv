@@ -1,0 +1,7 @@
+,antecedents,consequents,support,confidence,lift,antecedent_len
+0,frozenset({'chocolate'}),frozenset({'mineral water'}),0.05265964538061592,0.3213995117982099,1.3483320682317521,1
+1,frozenset({'mineral water'}),frozenset({'chocolate'}),0.05265964538061592,0.220917225950783,1.348332068231752,1
+2,frozenset({'mineral water'}),frozenset({'eggs'}),0.05092654312758299,0.21364653243847875,1.188844688294532,1
+3,frozenset({'eggs'}),frozenset({'mineral water'}),0.05092654312758299,0.28338278931750743,1.188844688294532,1
+4,frozenset({'spaghetti'}),frozenset({'mineral water'}),0.05972536995067324,0.3430321592649311,1.4390851379453289,1
+5,frozenset({'mineral water'}),frozenset({'spaghetti'}),0.05972536995067324,0.2505592841163311,1.4390851379453289,1
